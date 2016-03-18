@@ -1,0 +1,1 @@
+openssl req -new -sha256 -key nodes-06-10.icehack.bas.ac.uk.key -subj "/" -reqexts SAN -config <(cat /usr/local/etc/openssl/openssl.cnf <(printf "[SAN]\nsubjectAltName=DNS:node6.icehack.bas.ac.uk,DNS:node7.icehack.bas.ac.uk,DNS:node8.icehack.bas.ac.uk,DNS:node9.icehack.bas.ac.uk,DNS:node10.icehack.bas.ac.uk")) > nodes-06-10.icehack.bas.ac.uk.csr

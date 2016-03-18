@@ -1,0 +1,1 @@
+cat 21-25/nodes-21-25.icehack.bas.ac.uk.crt lets-encrypt-x1-cross-signed.pem > 21-25/nodes-21-25.icehack.bas.ac.uk-certificate-including-trust-chain.crt
