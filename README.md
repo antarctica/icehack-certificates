@@ -71,3 +71,12 @@ cat 01-05/nodes-01-05.icehack.bas.ac.uk.crt lets-encrypt-x1-cross-signed.pem > 0
 Use certificates and private keys as normal.
 
 Note: Ensure you suitably protect private key material.
+
+## Licence
+
+Copyright 2016 NERC BAS.
+
+Unless stated otherwise, all documentation is licensed under the Open Government License - version 3.
+All code is licensed under the MIT license.
+
+Copies of these licenses are included within this project.
